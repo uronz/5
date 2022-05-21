@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(white, grey);
+}
+.div:hover{
+ box-shadow: 3px 3px 3px 3px 0px white;
+ transition: linear 1s;
+}
